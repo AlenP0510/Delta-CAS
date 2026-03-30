@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/26338315/README.md)
-# delta-cas
+# Delta-CAS
 
 Delta-based Compare-And-Swap state management for multi-agent systems.
 
