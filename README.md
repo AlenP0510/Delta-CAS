@@ -1,4 +1,4 @@
-# delta-cas
+# Delta-CAS
 
 Delta-based Compare-And-Swap state management for multi-agent systems.
 
